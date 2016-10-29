@@ -1,0 +1,7 @@
+#Sat Oct 29 17:54:06 IST 2016
+base.0=C\:\\Users\\Lenovo\\AndroidStudioProjects\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_439ba82753528b11a8afffd0d5cb7b13702c0c0b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Lenovo\\AndroidStudioProjects\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_12a697d8e984205387f9aebeee267654a3744715\\classes.dex
+base.1=C\:\\Users\\Lenovo\\AndroidStudioProjects\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_12a697d8e984205387f9aebeee267654a3744715
+file.0=C\:\\Users\\Lenovo\\AndroidStudioProjects\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_439ba82753528b11a8afffd0d5cb7b13702c0c0b\\classes.dex
